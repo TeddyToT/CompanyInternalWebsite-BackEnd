@@ -1,4 +1,4 @@
-# CompanyInternalWebsite_-BackEnd
+# CompanyInternalWebsite-BackEnd
 BackEnd cho đồ án Quán lý dự án CNTT - nhóm 11
 
 Tải package: npm i
